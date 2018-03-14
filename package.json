@@ -2,6 +2,7 @@
   "name": "walgreens-scraper",
   "dependencies": {
     "axios": "^0.18.0",
+    "casperjs": "^1.1.4",
     "cheerio": "^1.0.0-rc.2",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
